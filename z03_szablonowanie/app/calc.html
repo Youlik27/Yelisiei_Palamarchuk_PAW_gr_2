@@ -1,0 +1,85 @@
+{extends file="../templates/main.html"}
+{block name=footer}przykładowa tresć stopki wpisana do szablonu głównego z szablonu kalkulatora{/block}
+{block name=banner}
+<section id="banner" class="major">
+	<div class="inner">
+		<header class="major">
+			<h1>{$banner_title}</h1>
+		</header>
+		<div class="content">
+			<p>{$banner_description}</p>
+			<ul class="actions">
+				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+{/block}
+{block name=content}
+<div class="row gtr-50">
+	<div class="col-12">
+		<section id = "form-section" class="box">
+			<form action="{$app_url}/app/calc.php#form-section" method="get"  class="gtr-uniform">
+				<!-- Kwota kredytu -->
+				<div class="row gtr-uniform">
+					<div class="col-12">
+						<div class="aln-center">
+							<h3 class="icon solid fa-coins"> Kwota kredytu</h3>
+						</div>
+						<input type="text" name="credit_sum" id="id_credit_sum" class="alt" placeholder="Wpisz kwotę kredytu (np. 2000)" value="{$credit_sum|default:""}">
+					</div>
+
+					<!-- Stopa procentowa -->
+					<div class="col-12">
+						<div class="aln-center">
+							<h3 class="icon solid fa-percent"> Stopa procentowa</h3>
+						</div>
+						<input type="text" name="percent" id="id_percent" class="alt" placeholder="Wpisz roczną stopę % (np. 5.5)" value="{$percent|default:""}" />
+					</div>
+
+					<!-- Okres kredytowania -->
+					<div class="col-12">
+						<div class="aln-center">
+							<h3 class="icon solid fa-calendar-alt"> Okres kredytowania</h3>
+						</div>
+						<input type="text" name="installment_count" id="id_installment_count" class="alt" placeholder="Wpisz okres w miesiącach (np. 25)" value="{$installment_count|default:""}"/>
+					</div>
+
+					<!-- Przycisk -->
+					<div class="col-12">
+						<ul class="actions special">
+							<li>
+								<button type="submit" class="button icon solid fa-calculator primary large"> Oblicz ratę</button>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</form>
+		</section>
+	</div>
+</div>
+{* wyświeltenie listy błędów, jeśli istnieją *}
+{if isset($messages)}
+{if count($messages) > 0}
+<div class="err">
+	<h4 class="icon solid fa-exclamation-triangle"> Wystąpiły błędy:</h4>
+	<ul>
+		{foreach $messages as $msg}
+		{strip}
+		<li>{$msg}</li>
+		{/strip}
+		{/foreach}
+	</ul>
+</div>
+{/if}
+{/if}
+
+{if isset($result)}
+<h4>Wynik</h4>
+<p class="res">
+	{$result}
+</p>
+{/if}
+{/block}
+
+<!-- Scripts -->
