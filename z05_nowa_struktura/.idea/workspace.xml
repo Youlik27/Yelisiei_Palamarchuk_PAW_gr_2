@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfb5db26-6124-4d76-aa92-f39b65ebca24" name="Changes" comment="z3">
+      <change beforePath="$PROJECT_DIR$/../Szablon/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/css/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/css/noscript.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/breakpoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/jquery.scrollex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/jquery.scrolly.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/base/_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/base/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_actions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_box.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_contact-method.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_spotlights.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/components/_tiles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_banner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/layout/_wrapper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/libs/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/libs/_html-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/libs/_vendor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/sass/noscript.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/generic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/images/pic11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Szablon/landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_01_widok_kontroler/app/calc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_01_widok_kontroler/app/calc_view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_01_widok_kontroler/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_01_widok_kontroler/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/app/calc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/app/calc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/app/templates_c/26bcc940c274aa7884905eca88612f6153768af5_0.file_calc.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/app/templates_c/7af71f49caeafabe78c7ec5b531798e68b87c5e2_0.file_main.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/layouts/marketing-old-ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/layouts/marketing.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/main-grid-old-ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/main-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/css/style_hide_intro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/img/common/file-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/img/leaf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/img/water.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/js/softscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/libs/Smarty.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/BlockHandler/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/BlockHandler/BlockHandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/BlockHandler/BlockPluginWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/BlockHandler/TextFormat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Cacheresource/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Cacheresource/Custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Cacheresource/File.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Cacheresource/KeyValueStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/BlockCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/CompilerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/DefaultHandlerBlockCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/DefaultHandlerFunctionCallCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/FunctionCallCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/BCPluginWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/CatModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/CountCharactersModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/CountParagraphsModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/CountSentencesModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/CountWordsModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/DefaultModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/EmptyModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/EscapeModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/FromCharsetModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/IndentModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/IsArrayModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/IssetModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/JsonEncodeModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/LowerModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/ModifierCompilerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/Nl2brModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/NoPrintModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/RawModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/RoundModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/StrRepeatModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/StringFormatModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/StripModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/StripTagsModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/StrlenModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/SubstrModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/ToCharsetModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/UnescapeModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/UpperModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Modifier/WordWrapModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/ModifierCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/ObjectMethodBlockCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/ObjectMethodCallCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/PrintExpressionCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/SpecialVariableCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Append.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Assign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/BCPluginWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Block.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/BlockClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/BreakTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Call.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Capture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/CaptureClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ConfigLoad.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ContinueTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Debug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ElseIfTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ElseTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/EvalTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ExtendsTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForElse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForeachClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForeachElse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForeachSection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/ForeachTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/FunctionClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/FunctionTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/IfClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/IfTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/IncludeTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Inheritance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Ldelim.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Nocache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/NocacheClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Rdelim.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Section.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/SectionClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/SectionElse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/Setfilter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/SetfilterClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/WhileClose.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compile/Tag/WhileTag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compiler/BaseCompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compiler/CodeFrame.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compiler/Configfile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Compiler/Template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/CompilerException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Debug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ErrorHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Extension/BCPluginsAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Extension/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Extension/CallbackWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Extension/CoreExtension.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Extension/DefaultExtension.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Extension/ExtensionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Filter/FilterInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Filter/FilterPluginWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Filter/Output/TrimWhitespace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/BCPluginWrapper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Count.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Counter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Cycle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Fetch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/FunctionHandlerInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlCheckboxes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlImage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlOptions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlRadios.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlSelectDate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlSelectTime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/HtmlTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Mailto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/FunctionHandler/Math.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Lexer/ConfigfileLexer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Lexer/ConfigfileLexer.plex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Lexer/TemplateLexer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Lexer/TemplateLexer.plex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/Base.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/Code.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/Dq.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/DqContent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/Tag.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/Template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/ParseTree/Text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Parser/ConfigfileParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Parser/ConfigfileParser.y" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Parser/TemplateParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Parser/TemplateParser.y" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/BasePlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/CustomPlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/ExtendsPlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/FilePlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/RecompiledPlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/StreamPlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/StringEval.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Resource/StringPlugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Runtime/Block.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Runtime/CaptureRuntime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Runtime/DefaultPluginHandlerRuntime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Runtime/ForeachRuntime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Runtime/InheritanceRuntime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Runtime/TplFunctionRuntime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Security.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Smarty.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Template/Cached.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Template/Compiled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Template/Config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Template/GeneratedPhpFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Template/Source.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/TemplateBase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/TestInstall.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/UndefinedVariable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/Variable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/debug.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/lib/smarty/src/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/templates/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/templates_c/9e46dd53107497b88f6a3b143942840d0c94c3ab_0.file_main.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php_04_szablony_smarty/templates_c/a2bc4698e3400715ea102ce5d418a4b4351eecee_0.file_calc.html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/calc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/calc_view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/inna_chroniona.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/security/check.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/security/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/security/login_view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/app/security/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../przyklad_02_ochrona_dostepu/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Youlik27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Youlik27/Yelisiei_Palamarchuk_PAW_gr_2&quot;,
+    &quot;accountId&quot;: &quot;d0d32365-1520-4edc-81c5-a7a06fd0be86&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uiKSrvFIrOZSpMwNRqNq0PE4Gi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Programy/XAMPP/htdocs/pal",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb5db26-6124-4d76-aa92-f39b65ebca24" name="Changes" comment="z3" />
+      <created>1742725958623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742725958623</updated>
+      <workItem from="1742725960155" duration="294000" />
+      <workItem from="1742726552257" duration="14000" />
+      <workItem from="1742726815915" duration="9000" />
+      <workItem from="1743175238399" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="z3" />
+    <option name="LAST_COMMIT_MESSAGE" value="z3" />
+  </component>
+</project>
