@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfb5db26-6124-4d76-aa92-f39b65ebca24" name="Changes" comment="z3">
+      <change afterPath="$PROJECT_DIR$/core/ClassLoader.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Przykłady/php_05_obiektowosc/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Przykłady/php_05_obiektowosc/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/app/calc.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/app/calc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/app/security/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/app/security/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/app/security/templates_c/20827027305b16af4c3ab8784c85ea6ca9648990_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/app/security/templates_c/20827027305b16af4c3ab8784c85ea6ca9648990_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/app/security/templates_c/272e5f7d1a3840d6693ed1133efd943f0f281e00_0.file_login_view.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/app/security/templates_c/272e5f7d1a3840d6693ed1133efd943f0f281e00_0.file_login_view.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/app/templates_c/119a283464cfc6bbdd66acbe92cacd5fe0690bab_0.file_calc.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/app/templates_c/119a283464cfc6bbdd66acbe92cacd5fe0690bab_0.file_calc.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/app/templates_c/8c3e674a8741aae97dc56003916b94b97badfffa_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/app/templates_c/8c3e674a8741aae97dc56003916b94b97badfffa_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/567d1fdc91abd09c127f2f4cf42f7fe8a991f9f7_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/567d1fdc91abd09c127f2f4cf42f7fe8a991f9f7_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/c85b3d315d82bae608ae3193f2defa6996e2f5a6_0.file_login_view.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/c85b3d315d82bae608ae3193f2defa6996e2f5a6_0.file_login_view.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/dd5c47128e533f71a1ad0ab66a460ea09937882d_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/dd5c47128e533f71a1ad0ab66a460ea09937882d_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/e0ed41703a0b7d0cf8d47d8e25cee602f62bd840_0.file_calc.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z03_szablonowanie/templates_c/e0ed41703a0b7d0cf8d47d8e25cee602f62bd840_0.file_calc.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/Config.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/Config.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/CalcCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/CalcCtrl.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/CalcForm.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/CalcForm.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/CalcResult.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/CalcResult.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/calc_view.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/calc.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/calc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/LoginCtrl.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/LoginCtrl.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/check.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/check.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/login_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/login_view.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/templates_c/20827027305b16af4c3ab8784c85ea6ca9648990_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/templates_c/20827027305b16af4c3ab8784c85ea6ca9648990_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/security/templates_c/272e5f7d1a3840d6693ed1133efd943f0f281e00_0.file_login_view.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/security/templates_c/272e5f7d1a3840d6693ed1133efd943f0f281e00_0.file_login_view.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/templates_c/119a283464cfc6bbdd66acbe92cacd5fe0690bab_0.file_calc.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/templates_c/119a283464cfc6bbdd66acbe92cacd5fe0690bab_0.file_calc.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/app/templates_c/8c3e674a8741aae97dc56003916b94b97badfffa_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/app/templates_c/8c3e674a8741aae97dc56003916b94b97badfffa_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/css/fontawesome-all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/css/fontawesome-all.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/jquery.scrollex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/jquery.scrolly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_contact-method.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_contact-method.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_spotlights.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_spotlights.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_tiles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/components/_tiles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_banner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_banner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/Messages.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/Messages.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/libs/Smarty.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/libs/Smarty.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/BlockHandlerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/BlockHandlerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/BlockPluginWrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/BlockPluginWrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/TextFormat.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/BlockHandler/TextFormat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/Custom.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/Custom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/File.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/File.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/KeyValueStore.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Cacheresource/KeyValueStore.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/BlockCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/BlockCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/CompilerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/CompilerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/DefaultHandlerBlockCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/DefaultHandlerBlockCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/DefaultHandlerFunctionCallCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/DefaultHandlerFunctionCallCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/FunctionCallCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/FunctionCallCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/BCPluginWrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/BCPluginWrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CatModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CatModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountCharactersModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountCharactersModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountParagraphsModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountParagraphsModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountSentencesModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountSentencesModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountWordsModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/CountWordsModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/DefaultModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/DefaultModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/EmptyModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/EmptyModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/EscapeModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/EscapeModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/FromCharsetModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/FromCharsetModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/IndentModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/IndentModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/IsArrayModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/IsArrayModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/IssetModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/IssetModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/JsonEncodeModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/JsonEncodeModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/LowerModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/LowerModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/ModifierCompilerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/ModifierCompilerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/Nl2brModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/Nl2brModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/NoPrintModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/NoPrintModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/RawModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/RawModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/RoundModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/RoundModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StrRepeatModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StrRepeatModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StringFormatModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StringFormatModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StripModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StripModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StripTagsModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StripTagsModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StrlenModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/StrlenModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/SubstrModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/SubstrModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/ToCharsetModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/ToCharsetModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/UnescapeModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/UnescapeModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/UpperModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/UpperModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/WordWrapModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Modifier/WordWrapModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/ModifierCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/ModifierCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/ObjectMethodBlockCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/ObjectMethodBlockCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/ObjectMethodCallCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/ObjectMethodCallCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/PrintExpressionCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/PrintExpressionCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/SpecialVariableCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/SpecialVariableCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Append.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Append.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Assign.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Assign.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/BCPluginWrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/BCPluginWrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Block.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Block.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/BlockClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/BlockClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/BreakTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/BreakTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Call.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Call.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Capture.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Capture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/CaptureClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/CaptureClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ConfigLoad.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ConfigLoad.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ContinueTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ContinueTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Debug.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Debug.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ElseIfTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ElseIfTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ElseTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ElseTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/EvalTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/EvalTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ExtendsTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ExtendsTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForElse.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForElse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachElse.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachElse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachSection.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachSection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/ForeachTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/FunctionClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/FunctionClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/FunctionTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/FunctionTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/IfClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/IfClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/IfTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/IfTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/IncludeTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/IncludeTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Inheritance.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Inheritance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Ldelim.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Ldelim.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Nocache.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Nocache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/NocacheClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/NocacheClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Rdelim.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Rdelim.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Section.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Section.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/SectionClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/SectionClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/SectionElse.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/SectionElse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Setfilter.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/Setfilter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/SetfilterClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/SetfilterClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/WhileClose.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/WhileClose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/WhileTag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compile/Tag/WhileTag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/BaseCompiler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/BaseCompiler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/CodeFrame.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/CodeFrame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/Configfile.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/Configfile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/Template.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Compiler/Template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/CompilerException.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/CompilerException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Data.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Debug.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Debug.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ErrorHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ErrorHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/BCPluginsAdapter.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/BCPluginsAdapter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/CallbackWrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/CallbackWrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/CoreExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/CoreExtension.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/DefaultExtension.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/DefaultExtension.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/ExtensionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Extension/ExtensionInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Filter/FilterInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Filter/FilterInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Filter/FilterPluginWrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Filter/FilterPluginWrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Filter/Output/TrimWhitespace.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Filter/Output/TrimWhitespace.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/BCPluginWrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/BCPluginWrapper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Count.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Count.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Counter.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Counter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Cycle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Cycle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Fetch.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Fetch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/FunctionHandlerInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/FunctionHandlerInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlBase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlCheckboxes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlCheckboxes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlImage.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlImage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlOptions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlOptions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlRadios.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlRadios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlSelectDate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlSelectDate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlSelectTime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlSelectTime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlTable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/HtmlTable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Mailto.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Mailto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Math.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/FunctionHandler/Math.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/ConfigfileLexer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/ConfigfileLexer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/ConfigfileLexer.plex" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/ConfigfileLexer.plex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/TemplateLexer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/TemplateLexer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/TemplateLexer.plex" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Lexer/TemplateLexer.plex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Base.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Base.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Code.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Code.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Dq.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Dq.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/DqContent.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/DqContent.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Template.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/ParseTree/Text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/ConfigfileParser.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/ConfigfileParser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/ConfigfileParser.y" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/ConfigfileParser.y" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/TemplateParser.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/TemplateParser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/TemplateParser.y" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Parser/TemplateParser.y" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/BasePlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/BasePlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/CustomPlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/CustomPlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/ExtendsPlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/ExtendsPlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/FilePlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/FilePlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/RecompiledPlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/RecompiledPlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/StreamPlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/StreamPlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/StringEval.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/StringEval.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/StringPlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Resource/StringPlugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/Block.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/Block.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/CaptureRuntime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/CaptureRuntime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/DefaultPluginHandlerRuntime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/DefaultPluginHandlerRuntime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/ForeachRuntime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/ForeachRuntime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/InheritanceRuntime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/InheritanceRuntime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/TplFunctionRuntime.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Runtime/TplFunctionRuntime.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Security.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Security.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Smarty.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Smarty.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Cached.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Cached.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Compiled.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Compiled.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/GeneratedPhpFile.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/GeneratedPhpFile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Source.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Template/Source.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/TemplateBase.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/TemplateBase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/TestInstall.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/TestInstall.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/UndefinedVariable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/UndefinedVariable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Variable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/Variable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/debug.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/debug.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/lib/smarty/src/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/templates/main.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/templates_c/567d1fdc91abd09c127f2f4cf42f7fe8a991f9f7_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/templates_c/567d1fdc91abd09c127f2f4cf42f7fe8a991f9f7_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/templates_c/c85b3d315d82bae608ae3193f2defa6996e2f5a6_0.file_login_view.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/templates_c/c85b3d315d82bae608ae3193f2defa6996e2f5a6_0.file_login_view.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/templates_c/dd5c47128e533f71a1ad0ab66a460ea09937882d_0.file_main.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/templates_c/dd5c47128e533f71a1ad0ab66a460ea09937882d_0.file_main.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z04_obiektowość/templates_c/e0ed41703a0b7d0cf8d47d8e25cee602f62bd840_0.file_calc.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/../z04_obiektowość/templates_c/e0ed41703a0b7d0cf8d47d8e25cee602f62bd840_0.file_calc.html.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Youlik27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Youlik27/Yelisiei_Palamarchuk_PAW_gr_2&quot;,
+    &quot;accountId&quot;: &quot;d0d32365-1520-4edc-81c5-a7a06fd0be86&quot;
+  }
+}</component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9000" show_user_defined_constants="false">
+    <xdebug_debug_ports port="9000" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="c040f259-6562-4cbf-a976-1b1e2c9d9443" name="1" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\Programy\XAMPP\htdocs\pal\z05_nowa_struktura" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uiKSrvFIrOZSpMwNRqNq0PE4Gi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.CalcCtrl.class.php.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.index.php.executor&quot;: &quot;Debug&quot;,
+    &quot;PHP Script.CalcCtrl.class.php.executor&quot;: &quot;Debug&quot;,
+    &quot;PHP Script.ctrl.php.executor&quot;: &quot;Debug&quot;,
+    &quot;PHP Script.index.php.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Programy/XAMPP/php/php.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.debug&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="PHP Script.CalcCtrl.class.php">
+    <configuration name="CalcCtrl.class.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/app/controllers/CalcCtrl.class.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.CalcCtrl.class.php" />
+      <item itemvalue="PHP Script.index.php" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
+        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb5db26-6124-4d76-aa92-f39b65ebca24" name="Changes" comment="z3" />
+      <created>1742725958623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742725958623</updated>
+      <workItem from="1742725960155" duration="294000" />
+      <workItem from="1742726552257" duration="14000" />
+      <workItem from="1742726815915" duration="9000" />
+      <workItem from="1743175238399" duration="56000" />
+      <workItem from="1744123083206" duration="388000" />
+      <workItem from="1744123479340" duration="336000" />
+      <workItem from="1744388256036" duration="3632000" />
+      <workItem from="1744398161616" duration="437000" />
+      <workItem from="1744398607438" duration="362000" />
+      <workItem from="1744398999155" duration="1705000" />
+      <workItem from="1744451767555" duration="619000" />
+      <workItem from="1744452468250" duration="875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="z3" />
+    <option name="LAST_COMMIT_MESSAGE" value="z3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/app/controllers/LoginCtrl.class.php</url>
+          <line>19</line>
+          <properties>
+            <option name="className" value="\app\controllers\LoginCtrl" />
+            <option name="methodName" value="getParams" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
